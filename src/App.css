@@ -1,0 +1,22 @@
+/* App specific styles if needed, mostly using index.css globals now */
+
+.logo {
+  height: 3rem;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em var(--color-primary-glow));
+}
+
+header h1 {
+  font-size: 2.5rem;
+  font-weight: 800;
+  background: var(--gradient-primary);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 0;
+  letter-spacing: -0.05em;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1));
+}
