@@ -17,8 +17,8 @@ SmartHire is an AI-powered interview coaching application. It simulates live int
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/smarthire.git
-    cd smarthire
+    git clone https://github.com/SwichyX/Smarthire.git
+    cd Smarthire
     ```
 
 2.  Install dependencies:
